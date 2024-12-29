@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1735464466 source:c:\dillalucu\aka\shoppinglist\main.cpp
+	<iostream>
+	"SHOPPINGLIST.h"
+
+1735220769 c:\dillalucu\aka\shoppinglist\shoppinglist.h
+	<iostream>
+
+1735220791 source:c:\dillalucu\aka\shoppinglist\shoppinglist.cpp
+	"SHOPPINGLIST.h"
+
